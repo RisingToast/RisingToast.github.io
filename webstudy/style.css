@@ -1,5 +1,13 @@
+/* 전역 CSS 정의 */
 h1{
     font-size: 50px;
     color:black;
     background-color: pink;
+}
+
+/* footer 영역 CSS 정의 */
+h5{
+    font-size: 10px;
+    background-color: pink;
+    color: black;
 }
