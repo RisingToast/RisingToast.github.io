@@ -1,13 +1,77 @@
 /* 전역 CSS 정의 */
 h1{
-    font-size: 50px;
+    font-size: 30px;
+    
     color:black;
     background-color: pink;
 }
 
+#main_head{
+    color: aqua;
+    
+}
+
+.head_title{
+    background-color: aqua; 
+}
+
+a[target="_blank"]{
+    color : red;
+}
+
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: red;
+}
+
 /* footer 영역 CSS 정의 */
 h5{
+    text-align: center;
     font-size: 10px;
     background-color: pink;
     color: black;
+}
+
+h5:hover{
+    background-color: yellow;
+}
+
+#title_gear:hover{
+    color: red;
+}
+
+input:focus{
+    background-color:orange;
+  }
+
+div{
+    width: 200px;
+    height: 50px;
+    background-color: #dddddd;
+    text-align: center;
+    border: blue solid 2px;
+    border-radius: 10px;
+  }
+
+a{
+    text-decoration: none;
+}
+
+div:hover button{
+    color: red;
+    font-weight: bold
+}
+
+div#sub_btn:hover button{
+    color: #FFFFFF;
+    background-color: green;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+button{
+    font-style: italic;
 }
