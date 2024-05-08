@@ -47,13 +47,16 @@ input:focus{
     background-color:orange;
   }
 
-div{
+div.main{
     width: 200px;
     height: 50px;
-    background-color: #dddddd;
+    /* background-color: yellowgreen; */
+    background-image: url("/webstudy/images.png");
     text-align: center;
-    border: blue solid 2px;
+    border: pink inset 2px;
     border-radius: 10px;
+    margin: 10px 50px 20px 30px;
+    padding: 5px 2px;
   }
 
 a{
@@ -74,4 +77,5 @@ div#sub_btn:hover button{
 
 button{
     font-style: italic;
+    margin: 10px;
 }
