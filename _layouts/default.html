@@ -1,23 +1,21 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+<html>
+
   {% include head.html %}
+
   <body>
-    <div class="container">
-      {% include header.html %}
 
-      <main>
-        {{ content }}
-      </main>
+    <main>
 
-      {% include footer.html %}
-    </div>
+      {{ content }}
 
-    {% if page.math %}
-      {% include mathjax.html %}
-    {% endif %}
+    </main>
 
-    {% if jekyll.environment == 'production' and site.google_analytics %}
-      {% include google-analytics.html %}
-    {% endif %}
+    {% include footer.html %}
+
   </body>
+
 </html>
