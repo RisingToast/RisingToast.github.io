@@ -1,9 +1,9 @@
 # Site/SEO settings
-email: 
-permalink: /:year/:month/:day/:title/
+email: 6267134@naver.com
+permalink: /:2000/:02/:08/:Birthday/
 google_analytics: 
 
-title: Trophy
+title: 블로그
 description: 
 url: ""
 baseurl: ""
@@ -11,11 +11,11 @@ twitter_username:
 default_img: 
 
 # Profile settings
-name: 
+name: 김경태(Kim Kyeong Tae)
 profile_img: 
 profile: 
 social:
-  github: 
+  github: https://risingtoast.github.io/
 
 # Build settings
 markdown: kramdown
