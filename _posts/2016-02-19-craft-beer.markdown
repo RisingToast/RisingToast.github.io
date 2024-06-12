@@ -1,14 +1,32 @@
 ---
 layout: post
-title: "Craft Beer"
-date: 2016-02-19
+title: "최애 포켓몬 소개"
+date: 2024-06-12
 categories:
-  - Juice
+  - Pokemon
 description:
-image: https://picsum.photos/2000/1200?image=1003
-image-sm: https://picsum.photos/500/300?image=1003
+image: https://archives.bulbagarden.net/media/upload/thumb/5/55/Ash_Gengar_with_Fire_types.png/1200px-Ash_Gengar_with_Fire_types.png
+image-sm: https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/094.png
 ---
-Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore. Blog street art DIY, pug crucifix asymmetrical chicharrones. Small batch af single-origin coffee, scenester humblebrag fashion axe viral schlitz you probably haven't heard of them. Kickstarter synth poutine brunch hoodie. Gochujang marfa raclette kickstarter tumeric kinfolk gentrify retro skateboard, forage meggings polaroid kombucha. Tilde mlkshk fam meggings.
+일칭과 영칭의 유래는 'Doppelganger(도플갱어)'이며, 한칭의 유래는 유령을 뜻하는 영단어 'Phantom'이다. 처음에 제안된 영칭이 진짜로 'Phantom'이었다는 기막힌 우연이 있다. 그걸 알고서 한칭을 팬텀으로 지은 건지는 불명.
+
+이름의 유래가 'Doppelganger'인 것에 대해 '똑같이 생긴 사람'이랑 팬텀이 무슨 관계인지 모르겠다는 팬들이 많다. 하지만 'Doppelganger'는 '생령'이라고 번역할 수도 있는데, 이는 자신의 영혼이 빠져나와 돌아다닌다는 의미로 자신의 유령을 뜻한다. 즉, 똑같이 생긴 존재만 'Doppelganger'가 아니라 그냥 유령을 뜻하기도 한다는 말이다.
+
+진화전인 고우스트는 한칭 기준으로는 그나마 타입명인 고스트와 구별이 가능하지만, 일칭 기준 고스트(ゴースト)로 타입명과 완벽히 일치한다. 때문에 일본어 사용자들은 타입명 고스트인지 고오스가 진화한 고우스트인지 부연설명을 하지 않으면 구분이 불가능하며, 고우스트로 검색해도 고스트타입 포켓몬만 잔뜩 나온다.
+
+관동 지방 전 사천왕인 고스트 타입 전문의 국화가 '사용한 포켓몬' 정도가 아니라, 레드/그린/블루/피카츄 때는 고스트 타입이 팬텀 진화군뿐이라서 고우스트 1마리에 선두와 히든카드로 팬텀 2마리라는 엽기적인 배치로 유명했다. FR/LG 때는 다행히도 고우스트 1마리는 빠졌지만, 여전히 선두로 팬텀, 히든카드로 팬텀을 쓴다. 이는 2세대에서 등장한 고스트타입 체육관 관장인 유빈도 마찬가지로, 4세대인 하트 골드/소울 실버에 와서도 1차전 때 고우스트 2마리를 2차전 때 팬텀을 2마리 꺼낸다.
+
+창립 원화가 스기모리 켄이 직접 디자인한 포켓몬 중 하나이기도 하며, 그리기 쉬우므로 가장 좋아한다. 또한 외모가 마치 귀여운 악동을 연상시켜서 팬아트도 제법 많은 편. 반면 초창기 도트는 지금과는 완전 딴판으로 정말 무섭게 생겼다.
+
+같은 고스트 타입 포켓몬인 탱탱겔, 샹델라, 펌킨인과 마찬가지로 악의를 가지고 사람을 죽이는 포켓몬이며 고오스, 고우스트, 팬텀 모두 대놓고 사람의 목숨을 노린다고 도감에 설명되어 있다. 그리고 이러한 설정은 게임 속에서도 드러난다. 1세대 게임들과 3세대 파이어 레드, 리프 그린의 유일한 서식지인 보라타운의 포켓몬타워에서는 고오스와 고우스트에게 홀린 무녀들이 괴상한 소리를 내며 덤벼들다 배틀에서 이기면 빙의에서 풀려나 하나같이 "엥? 내가 왜 그랬지?"라는 반응을 보이며, 4세대의 숲의양옥집에 나오는 귀신의 정체는 바로 팬텀이며 어쩌다가 양옥집 안에 들어간 할아버지와 손녀를 살해하였고, 그 원혼들이 귀신이 되어 떠돌고 있다. 설정 뿐만이 아니라 게임 내에서 흔들풍손, 슬리퍼와 같이 드물게 사람에게 해를 끼치는 묘사가 있는 포켓몬이다. 1세대에선 실프스코프를 들고 가지 않으면 플레이어도 도저히 야생 고오스, 고우스트를 어쩔 수 없다는 점이 또 섬뜩하다.
+
+하지만 여러모로 소름돋는 설정과는 달리 애니메이션의 영향으로 그냥 단순하게 장난을 좋아하는 짓궂은 유령으로 등장하는 경우가 많다.
+
+6세대에서 추가된 포켓파를레에선 일단 가스로 이루어진 유령 포켓몬이다 보니 손이 투명해지면서 허공에 대고 쓰다듬질 하는 듯한 휙휙 소리가 난다. 그래도 일단 쓰다듬은 것으로 판정되어서 좋아하긴 한다.
+
+부유 특성임에도 불구하고 고오스, 고우스트도 참가가 가능한 스카이배틀에 참여하지 못하는 유일한 포켓몬이다. 진화 전 두 마리와는 다르게 3D 모델링이 땅을 딛고 서 있는 형태이기 때문이다. 포켓몬스터 DP 애니메이션에서 멜리사가 쓰는 팬텀은 마치 특성을 반영하듯 공중을 걸어다니는 듯한 모습으로 묘사되었다. 7세대에서는 특성이 부유에서 저주받은바디로 바뀌었지만 슈퍼·메가싸네 철거지의 시련 중에서 포켓파인더로 팬텀을 보면 공중을 성큼성큼 기어다닌다.
+
+고오스는 손이 없는데도 삼색 펀치를 배운다. 손이 생기는 건 고우스트로 진화한 뒤부터인데 어째서인지는 의문이다. 몸통박치기
 
 <ul>
   <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
