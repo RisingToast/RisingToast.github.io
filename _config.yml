@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: 6267134@naver.com
-permalink: 
+permalink: /:year/:month/:day/:title/
 google_analytics: 
 
 title: Poke Gangar Fan
