@@ -15,7 +15,7 @@ name: 김경태(Kim Kyeong Tae)
 profile_img: 
 profile: 
 social: https://www.instagram.com/rlarudxo_00/
-  github: https://github.com/RisingToast
+github: https://github.com/RisingToast
 
 # Build settings
 markdown: kramdown
@@ -41,4 +41,4 @@ paginate_path: "/blog/page-:num"
 
 # Sass
 sass:
-  style: compressed
+style: compressed
