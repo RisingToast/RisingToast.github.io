@@ -1,12 +1,12 @@
 # Site/SEO settings
 email: 6267134@naver.com
-permalink: //
+permalink: 
 google_analytics: 
 
-title: 블로그
+title: 팬텀 발냄새
 description: 
-url: ""
-baseurl: ""
+url: "https://risingtoast.github.io/"
+baseurl: "https://risingtoast.github.io/"
 twitter_username: 
 default_img: 
 
