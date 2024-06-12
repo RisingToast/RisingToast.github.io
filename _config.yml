@@ -14,8 +14,8 @@ default_img:
 name: 김경태(Kim Kyeong Tae)
 profile_img: 
 profile: 
-social:
-  github: https://risingtoast.github.io/
+social: https://www.instagram.com/rlarudxo_00/
+  github: https://github.com/RisingToast
 
 # Build settings
 markdown: kramdown
