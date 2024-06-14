@@ -5,7 +5,7 @@ date: 2024-06-14
 categories:
   - SteamGame
 description:
-image: https://i.namu.wiki/i/Y6xfSx6OPpIRsYAHB0XZqlckIet9_1TgDd5n-azJwln9JEzB_nhCUcvE0jnwJx9h7cZCkqAOb3QwzZpScJtBTdEyBJlPGJPXfxpee8nn4V6cx9_MIn_L_oNTNEWzAqRgXM7yqiJVlstg3BPOx0eOhg.svg
+image: https://cdn.gametoc.co.kr/news/photo/202401/78360_241092_4148.jpg
 image-sm: 
 ---
 
