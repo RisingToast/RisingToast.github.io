@@ -5,7 +5,7 @@ date: 2016-02-19
 categories:
   - Pokemon
 description:
-image: https://static.wikia.nocookie.net/pokemon/images/1/17/%EC%88%98%ED%98%95%EC%9D%98_%ED%94%8C%EB%9D%BC%EC%9D%B4%EA%B3%A4.png/revision/latest?cb=20230501055221&path-prefix=ko
+image: https://cdn.mania.kr/nbamania/g2/data/cheditor5/2110/mania-done-d09fb0fe044e5b7d6e9f969d3957f73f.jpg
 image-sm: 
 ---
 
