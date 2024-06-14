@@ -1,103 +1,61 @@
-# 🏆 – A Blog Theme for Jekyll
-Trophy is a blog theme for Jekyll built using HTML, Sass, and JavaScript (no jQuery). External stylesheets and libraries included are Google Fonts, Font Awesome, Normalize.CSS, Rellax, and WOW.js.
-Trophy is also available in [Ghost](https://github.com/thomasvaeth/trophy-ghost).
+# 2024-1학기 웹화면구현 - 프로젝트
+---
+> ### 작성자 > 김경태
+> ### github page 주소 > RisingToast.github.io
+>
+> ### 목차 >
+> - [프로젝트 명](#프로젝트-명)
+> - [웹사이트 주제](#웹사이트-주제)
+> - [프로젝트 목표:](#프로젝트-목표)
+> - [대상(타겟층, 고객층)](#대상타겟층-고객층)
+> - [주요 콘텐츠](#주요-콘텐츠)
+> - [사이트맵](#사이트맵)
+> - [사용한 지킬테마/기술스택](#사용한-지킬-테마-또는-기술-스택)
+---
 
-## Screenshots
-Blog Page (Posts)
-![Blog Page](https://github.com/thomasvaeth/trophy-jekyll/blob/master/_screenshots/screenshot-1.png "Desktop screenshot")
+## 프로젝트 명
+- 잡다한 깃허브 블로그
 
-Blog Page (Categories)
-![Blog Page](https://github.com/thomasvaeth/trophy-jekyll/blob/master/_screenshots/screenshot-2.png "Desktop screenshot")
+## 웹사이트 주제
+- 내 관심사와 관련된 다양한 카테고리별 블로그
+- 주제 : 게임, 일상, 코딩관련지식
 
-Post Page (Mast)
-![Post Page](https://github.com/thomasvaeth/trophy-jekyll/blob/master/_screenshots/screenshot-3.png "Desktop screenshot")
+## 프로젝트 목표:
+- 1. 최소 3개 이상의 카테고리만들기
+- 2. 정확한 정보와 적당한 글과 사진을 추가해서 만들기
+- 3. 과제 제출 후에도 사용가능한 블로그 만들기
 
-Post Page (Profile & Footer)
-![Post Page](https://github.com/thomasvaeth/trophy-jekyll/blob/master/_screenshots/screenshot-4.png "Desktop screenshot")
+## 대상(타겟층, 고객층) 
+- 관심사가 겹치는 사람
+- 20대, 30대 게이머, 전공자 등
 
-Archive Page
-![Archive Page](https://github.com/thomasvaeth/trophy-jekyll/blob/master/_screenshots/screenshot-5.png "Desktop screenshot")
+## 주요 콘텐츠
+- 사진, 설명, 주관, 견해가 들어간 블로그 포스팅
+- 콘텐츠 탐색 도구 : 인터넷 검색, Chat-GPT 사용, 뉴스, TV 등
 
-## Installation
-All dependencies are saved in the ````Gemfile````. Run ````bundle install```` (Install [Bundler](http://bundler.io/) if it is not already) after cloning the repo.
+## 사이트맵
+- 사이트 소개
+  - 인사말
+  - 연혁
+  - 조직도
+  - 연락처
+- 제품 및 서비스
+  - 제품 1
+  - 제품 2
+  - 서비스 1
+  - 서비스 2
+- 고객센터
+  - 공지사항
+  - 자료실
+  - FAQ
+  - 문의
+- 추가정보
+  - 깃허브 링크 : https://github.com/RisingToast
 
-## Edit Theme
-I made everything as easy as possible to edit. Most things can be found in the ````_config.yml````, but if more editing is required digging through the code will be required. The ````head.html```` file is in the ````_includes```` folder and the Sass variables are found in the ````_base.scss```` file in the ````_sass```` folder.
-
-### _config.yml
-
-#### Site Settings
-    email: 
-    baseurl: ""
-    paginate: 5
-    paginate_path: "/blog/page-:num"
-    google_analytics: UA—XXXXXXXX-X
-
-* ````email```` - Your email for the contact card and the footer
-* ````baseurl```` - Path of blog if adding this on to another website
-* ````paginate```` - Number of blog posts per page
-* ````paginate_path```` - URL structure of paginated pages
-* ````google_analytics```` - Option field to replace with correct Google Analytics code
-
-#### SEO Settings
-    title: 
-    description: 
-    url: ""
-    twitter_username: 
-    default_img: 
-
-* ````title```` - Title of blog
-* ````description```` - Description of blog (recommended to not go over 160 characters)
-* ````url```` - URL of main website
-* ````twitter_username```` - Twitter username
-* ````default_img```` - Image that will appear when posting links on social networks
-
-#### Profile Settings
-    name: 
-    profile_img: 
-    profile: 
-    social:
-      github: 
-
-* ````name```` - Full name for SEO purposes
-* ````profile_img```` - Image for the profile card (size to 2000x1200px)
-* ````profile```` - Short description that will be in the profile card
-* ````social```` - List of social networks for icons in the contact card and the footer ([Font Awesome](http://fontawesome.io/) is used, so only match the name of the icon, but do not include ````fa-````)
-
-
-#### Build Settings
-    exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
-    permalink: /:year/:month/:day/:title/
-
-* ````exclude```` - Folders that are excluded from `_site_`
-* ````permalink```` - URL structure of blog posts
-
-### _posts
-    ---
-    layout: post
-    title: ""
-    date: 
-    categories:
-    description: 
-    image: 
-    image-sm:
-    ---
-
-This is the YAML front matter block for blog posts.
-* ````layout```` - This field will always be post
-* ````title```` - The title of the blog post
-* ````date```` - The date that will appear on the blog post
-* ````categories```` - Optional field that can be entered as an array or a list
-* ````description```` - Optional field for SEO (recommended to not go over 160 characters)
-* ````image```` - The blog theme was designed for 2000x1200px images (optimize your images because this is a picture heavy theme)
-* ````image-sm```` - Optional field for card layouts for image optimization and page speed (designed for 500x300px images)
-
-## Upcoming Additions
-* Page transitions
-* More styled elements for blog posts
-
-## Issues
-Please submit any issues [here](https://github.com/thomasvaeth/trophy-jekyll/issues).
-
-## License
-Trophy is licensed under the MIT License.
+## 사용한 지킬 테마 또는 기술 스택
+- 지킬 테마 이름 : Trophy
+- 지킬 테마 URL : https://github.com/thomasvaeth/trophy-jekyll
+- 프론트엔드: HTML, CSS, JavaScript
+- 백엔드: (사용할 백엔드 기술)
+- 데이터베이스: (사용할 데이터베이스 기술)
+- 프로젝트 일정: (2024-06-10) ~ (2024-06-21)
