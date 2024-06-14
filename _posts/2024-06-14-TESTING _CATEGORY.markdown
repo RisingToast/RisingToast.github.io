@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "최애 포켓몬 소개"
+title: "스팀게임추천(오픈월드)"
 date: 2024-06-12
 categories:
   - SteamGame
