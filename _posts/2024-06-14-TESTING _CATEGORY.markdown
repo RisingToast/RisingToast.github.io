@@ -5,7 +5,7 @@ date: 2024-06-14
 categories:
   - SteamGame
 description:
-image: https://archives.bulbagarden.net/media/upload/thumb/5/55/Ash_Gengar_with_Fire_types.png/1200px-Ash_Gengar_with_Fire_types.png
+image: https://i.namu.wiki/i/Y6xfSx6OPpIRsYAHB0XZqlckIet9_1TgDd5n-azJwln9JEzB_nhCUcvE0jnwJx9h7cZCkqAOb3QwzZpScJtBTdEyBJlPGJPXfxpee8nn4V6cx9_MIn_L_oNTNEWzAqRgXM7yqiJVlstg3BPOx0eOhg.svg
 image-sm: 
 ---
 
