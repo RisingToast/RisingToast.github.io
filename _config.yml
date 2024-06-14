@@ -12,10 +12,13 @@ default_img:
 
 # Profile settings
 name: 김경태(Kim Kyeong Tae)
-profile_img: 
-profile: 
-social: https://www.instagram.com/rlarudxo_00/
-github: https://github.com/RisingToast
+profile_img: "https://img-store.theqoo.net/NEOdo.png"
+profile: "백수"
+email: "6267134@naver.com"
+social:
+  - ["github", "https://github.com/RisingToast"]
+  - ["instagram", "https://www.instagram.com/rlarudxo_00/"]
+  - ["discord", "https://linkedin.com/in/username"]
 
 # Build settings
 markdown: kramdown
