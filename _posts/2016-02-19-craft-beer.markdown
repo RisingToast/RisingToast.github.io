@@ -5,7 +5,7 @@ date: 2016-02-19
 categories:
   - Pokemon
 description:
-image: ./img/flygon.jpg
+image: https://static.wikia.nocookie.net/pokemon/images/1/17/%EC%88%98%ED%98%95%EC%9D%98_%ED%94%8C%EB%9D%BC%EC%9D%B4%EA%B3%A4.png/revision/latest?cb=20230501055221&path-prefix=ko
 image-sm: 
 ---
 
