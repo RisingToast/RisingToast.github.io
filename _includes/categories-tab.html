@@ -23,10 +23,7 @@
           <div class="card__container">
             <h2 class="card__header">{{ category }}</h2>
             <p class="card__count">{{ site.categories[category] | size }} 개</p>
-            <!-- Dynamic link to respective category page -->
-            <span class="card__more">
-              <a href="{{ site.baseurl }}/{{ cat_dir }}/{{ category | downcase | slugify }}/">더 많은 내용보기</a>
-            </span>
+            <span class="card__more">더 많은 내용보기</span>
           </div>
         </a>
       </li>
