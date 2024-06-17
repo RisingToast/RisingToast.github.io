@@ -9,6 +9,7 @@ baseurl: "https://risingtoast.github.io/"
 url: "https://risingtoast.github.io/"
 instagram_username: 
 default_img: 
+category_dir: categories
 
 # Profile settings
 name: 김경태(Kim Kyeong Tae)
@@ -45,3 +46,4 @@ paginate_path: "/blog/page-:num"
 # Sass
 sass:
 style: compressed
+
