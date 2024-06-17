@@ -1,21 +1,24 @@
 # Site/SEO settings
-email: 
+email: 6267134@naver.com
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-title: Trophy
+title: Gengar's Blog
 description: 
 url: ""
 baseurl: ""
 twitter_username: 
 default_img: 
+include: ["_categories"]
 
 # Profile settings
 name: 
 profile_img: 
 profile: 
 social:
-  github: 
+github: 
+
+
 
 # Build settings
 markdown: kramdown
