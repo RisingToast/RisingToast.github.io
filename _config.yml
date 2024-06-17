@@ -12,11 +12,11 @@ default_img:
 include: ["_categories"]
 
 # Profile settings
-name: 
+name: 김경태
 profile_img: 
 profile: 
 social:
-github: 
+github: https://github.com/RisingToast
 
 
 
