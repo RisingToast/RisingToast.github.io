@@ -2,7 +2,16 @@
 layout: compress
 title: Project
 description: 프로젝트 카테고리
+date: 2024-06-18
+categories: project
 permalink: /category/project/
 ---
-
+<h1>All Categories</h1>
+<ul>
+  {% for category in site.categories %}
+  <li>
+    <a href="{{ site.baseurl }}/category/{{ category[0] }}">{{ category[0] }}</a>
+  </li>
+  {% endfor %}
+</ul>
 {% include category.html %}
