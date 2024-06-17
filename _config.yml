@@ -5,7 +5,7 @@ google_analytics:
 
 title: Poke Gengar Fan
 description: 이것 저것 잡다한 블로그
-baseurl: https://github.com/RisingToast/RisingToast.github.io
+baseurl: "https://risingtoast.github.io/"
 url: "https://risingtoast.github.io/"
 instagram_username: 
 default_img: 
