@@ -5,11 +5,12 @@ google_analytics:
 
 title: Poke Gengar Fan
 description: 이것 저것 잡다한 블로그
-baseurl: "https://risingtoast.github.io/"
-url: "https://risingtoast.github.io/"
+baseurl: "https://risingtoast.github.io"
+category_dir: categories
+url: "https://risingtoast.github.io"
 instagram_username: 
 default_img: 
-category_dir: categories
+
 
 # Profile settings
 name: 김경태(Kim Kyeong Tae)
