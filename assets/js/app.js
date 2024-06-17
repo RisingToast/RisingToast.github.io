@@ -104,3 +104,48 @@ document.addEventListener('DOMContentLoaded', function() {
   Preview.init();
   wow.init();
 });
+
+var CategoryFilter = (function() {
+  var s;
+
+  return {
+    settings: {
+      posts: document.getElementsByClassName('preview'),
+      links: document.getElementsByClassName('preview__link')
+    },
+
+    init: function() {
+      s = this.settings;
+      this.filterByCategory();
+    },
+
+    filterByCategory: function() {
+      if (s.links.length) {
+        [].forEach.call(s.links, function(link) {
+          link.addEventListener('click', function(event) {
+            event.preventDefault(); // Prevent the default link behavior
+            var category = link.getAttribute('data-category');
+
+            [].forEach.call(s.posts, function(post) {
+              var categories = post.getAttribute('data-categories').split(',');
+              if (categories.includes(category)) {
+                post.style.display = 'block';
+              } else {
+                post.style.display = 'none';
+              }
+            });
+          });
+        });
+      }
+    }
+  }
+})();
+
+document.addEventListener('DOMContentLoaded', function() {
+  Tabs.init();
+  Preview.init();
+  CategoryFilter.init(); // Initialize the category filter
+  wow.init();
+});
+
+
