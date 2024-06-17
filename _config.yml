@@ -1,51 +1,33 @@
-# Site/SEO settings
-email: 6267134@naver.com
-permalink: /:year/:month/:day/:title/
-google_analytics: 
-
-title: Poke Gengar Fan
-description: 이것 저것 잡다한 블로그
-baseurl: "https://risingtoast.github.io"
-category_dir: categories
-include: [_categories]
-url: "https://risingtoast.github.io"
-instagram_username: 
-default_img: 
-
-
-# Profile settings
-name: 김경태(Kim Kyeong Tae)
-profile_img: "https://img-store.theqoo.net/NEOdo.png"
-profile: "백수"
-email: "6267134@naver.com"
-social:
-  - ["github", "https://github.com/RisingToast"]
-  - ["instagram", "https://www.instagram.com/rlarudxo_00/"]
-  - ["discord", "https://linkedin.com/in/username"]
-
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - octopress-autoprefixer
-compress_html:
-  clippings: all
-  comments: all
-  startings: [html, head, body]
-exclude:
-  - _screenshots
-  - .DS_Store
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.txt
-  - README.md
-
-# Pagination
+# Site settings
+email: 
+baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
+google_analytics: 
+
+# SEO settings
+title: Trophy
+description: 
+url: ""
+twitter_username: 
+default_img: 
+
+# Profile settings
+name: 
+profile_img: 
+profile: 
+social:
+  github: 
+
+# Build settings
+include: ["_categories"]
+exclude: ["_screenshots", "Gemfile", "Gemfile.lock"]
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
 
 # Sass
 sass:
-style: compressed
+  style: compressed
 
+# Gems
+gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
