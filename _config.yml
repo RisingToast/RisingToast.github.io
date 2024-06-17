@@ -9,6 +9,7 @@ url: ""
 baseurl: ""
 twitter_username: 
 default_img: 
+include: [_categories]
 
 # Profile settings
 name: 
