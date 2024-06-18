@@ -21,12 +21,12 @@ layout: default
             </ul>
         </header>
         <div>
-            {{ % for post in site.categories[page.title] % }}
+            {{ % for post in categories[page.title] % }}
         </div>
 
         <div class="tab">
             <ul itemscope itemtype="http://schema.org/Blog">
-                {% for post in site.categories[page.title] %}
+                {% for post in categories[page.title] %}
                 <li class="preview" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
                     <a class="preview__link" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">
                         <span class="preview__date" itemprop="datePublished"
