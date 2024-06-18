@@ -21,7 +21,7 @@ layout: default
             </ul>
         </header>
         <div>
-            {{ content }}
+            {{ % for post in site.categories[page.title] % }}
         </div>
 
         <div class="tab">
