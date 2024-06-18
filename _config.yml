@@ -39,12 +39,9 @@ exclude:
   - README.md
 
 # Pagination
-pagination:
-  enabled: true
-  per_page: 5
-  title: ":title - page :num"
-  sort_field: "date"
-  sort_reverse: true
+paginate: 5
+paginate_path: "/blog/page-:num"
+
 # Sass
 sass:
   style: compressed
