@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "나의 프로젝트 목록"
-date: 2016-06-19
+date: 2024-06-19
 categories: project
 description:
 image: https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/Project-management-steps2.ko-KR.png

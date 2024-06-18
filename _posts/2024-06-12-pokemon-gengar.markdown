@@ -7,7 +7,8 @@ description:
 image: https://i.namu.wiki/i/7bDFUpBCs6WFTeAoUhQCyaxnS9r5UjzdNYGjB0S1UDq48PihGJss-Swnhq5NTGwJYqqAElT_h7ftqJEKlLHARQ.webp
 image-sm: 
 ---
-일칭과 영칭의 유래는 'Doppelganger(도플갱어)'이며, 한칭의 유래는 유령을 뜻하는 영단어 'Phantom'이다. 처음에 제안된 영칭이 진짜로 'Phantom'이었다는 기막힌 우연이 있다. 그걸 알고서 한칭을 팬텀으로 지은 건지는 불명.
+<h1>소개</h1>
+팬텀의 일칭과 영칭의 유래는 'Doppelganger(도플갱어)'이며, 한칭의 유래는 유령을 뜻하는 영단어 'Phantom'이다. 처음에 제안된 영칭이 진짜로 'Phantom'이었다는 기막힌 우연이 있다. 그걸 알고서 한칭을 팬텀으로 지은 건지는 불명.
 
 이름의 유래가 'Doppelganger'인 것에 대해 '똑같이 생긴 사람'이랑 팬텀이 무슨 관계인지 모르겠다는 팬들이 많다. 하지만 'Doppelganger'는 '생령'이라고 번역할 수도 있는데, 이는 자신의 영혼이 빠져나와 돌아다닌다는 의미로 자신의 유령을 뜻한다. 즉, 똑같이 생긴 존재만 'Doppelganger'가 아니라 그냥 유령을 뜻하기도 한다는 말이다.
 
@@ -25,44 +26,30 @@ image-sm:
 
 부유 특성임에도 불구하고 고오스, 고우스트도 참가가 가능한 스카이배틀에 참여하지 못하는 유일한 포켓몬이다. 진화 전 두 마리와는 다르게 3D 모델링이 땅을 딛고 서 있는 형태이기 때문이다. 포켓몬스터 DP 애니메이션에서 멜리사가 쓰는 팬텀은 마치 특성을 반영하듯 공중을 걸어다니는 듯한 모습으로 묘사되었다. 7세대에서는 특성이 부유에서 저주받은바디로 바뀌었지만 슈퍼·메가싸네 철거지의 시련 중에서 포켓파인더로 팬텀을 보면 공중을 성큼성큼 기어다닌다.
 
-고오스는 손이 없는데도 삼색 펀치를 배운다. 손이 생기는 건 고우스트로 진화한 뒤부터인데 어째서인지는 의문이다. 몸통박치기
 
-<ul>
-  <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
-  <li>Church-key crucifix messenger bag health goth</li>
-  <li>Try-hard artisan direct trade</li>
-  <li>Cold-pressed selfies</li>
-</ul>
+<h2>포획 및 스토리</h2>
+<table class="yMQzhIHT _ba832eed82a14e6b3bc9304cd9b2a6d0" style="background-color:#FFFFFF; width:100%; border:2px solid #695582;" data-dark-style="background-color:#191919;" data-v-3d1607f2=""><tbody data-v-3d1607f2=""><tr data-v-3d1607f2=""><td style="background-color:#695582; text-align:center;" data-v-3d1607f2=""><div class="XNYCEmRw" data-v-3d1607f2=""><span style="color:#ffffff" data-v-3d1607f2="">스토리 진행 가능 작품</span></div></td><td style="text-align:left;" data-v-3d1607f2=""><div class="XNYCEmRw" data-v-3d1607f2="">RGBY, GSC, FRLG, DPPt, HGSS, XY, SM, USUM, SWSH, LA, SV</div></td></tr><tr data-v-3d1607f2=""><td style="background-color:#695582; text-align:center;" data-v-3d1607f2=""><div class="XNYCEmRw" data-v-3d1607f2=""><span style="color:#ffffff" data-v-3d1607f2="">포지션</span></div></td><td style="text-align:left;" data-v-3d1607f2=""><div class="XNYCEmRw" data-v-3d1607f2="">포획 보조 요원, 고스핏 특수 어태커</div></td></tr><tr data-v-3d1607f2=""><td style="background-color:#695582; text-align:center;" data-v-3d1607f2=""><div class="XNYCEmRw" data-v-3d1607f2=""><span style="color:#ffffff" data-v-3d1607f2="">장점</span></div></td><td style="text-align:left;" data-v-3d1607f2=""><div class="XNYCEmRw" data-v-3d1607f2="">다양한 견제폭, 높은 특수 공격 수치, 스피드, 유용한 보조기 보유, 대체로 쉬운 입수(공통)<br data-v-3d1607f2="">꼭두, 레드, 루자미네를 상대로 유리한 플레이<a class="j3wonz1J" href="#fn-6" data-v-3d1607f2=""><span id="rfn-6" data-v-3d1607f2=""></span>[6]</a> 가능(GSC, SM)</div></td></tr><tr data-v-3d1607f2=""><td style="background-color:#695582; text-align:center;" data-v-3d1607f2=""><div class="XNYCEmRw" data-v-3d1607f2=""><span style="color:#ffffff" data-v-3d1607f2="">단점</span></div></td><td style="text-align:left;" data-v-3d1607f2=""><div class="XNYCEmRw" data-v-3d1607f2="">낮은 내구, 독 타입 기술을 자력으로 배우지 않음<br data-v-3d1607f2="">통신진화를 하지 않을 경우 범용성이 떨어짐<a class="j3wonz1J" href="#fn-7" data-v-3d1607f2=""><span id="rfn-7" data-v-3d1607f2=""></span>[7]</a>(2세대)<br data-v-3d1607f2="">자속기와 종족값의 불일치(3세대까지)<br data-v-3d1607f2="">기술머신(혹은 기술레코드) 사용이 강제됨(1~4, 8세대)<br data-v-3d1607f2="">애매한 독 타입 공격 상성(5세대까지)<br data-v-3d1607f2="">통신 교환 필요(6세대까지)<br data-v-3d1607f2="">땅 타입에 취약해진 특성(7세대부터, 최종 진화형 한정)<br data-v-3d1607f2="">낮은 레벨에 자력으로 배우는 고스트 타입 특수기 없음(4~7세대)</div></td></tr><tr data-v-3d1607f2=""><td style="background-color:#695582; text-align:center;" data-v-3d1607f2=""><div class="XNYCEmRw" data-v-3d1607f2=""><span style="color:#ffffff" data-v-3d1607f2="">추천되는 도구</span></div></td><td style="text-align:left;" data-v-3d1607f2=""><div class="XNYCEmRw" data-v-3d1607f2="">저주의부적, 독바늘, 돌격조끼, 팬텀나이트, 생명의구슬</div></td></tr><tr data-v-3d1607f2=""><td style="background-color:#695582; text-align:center;" data-v-3d1607f2=""><div class="XNYCEmRw" data-v-3d1607f2=""><span style="color:#ffffff" data-v-3d1607f2="">보좌 가능한 스타팅 포켓몬</span></div></td><td style="text-align:center;" data-v-3d1607f2=""><div class="XNYCEmRw" data-v-3d1607f2="">모든 스타팅 (3,5세대 및 이상해꽃, 모크나이퍼, 히스이 블레이범, 라우드본 제외)</div></td></tr><tr data-v-3d1607f2=""><td style="background-color:#695582; text-align:center;" data-v-3d1607f2=""><div class="XNYCEmRw" data-v-3d1607f2=""><span style="color:#ffffff" data-v-3d1607f2="">추천 기술배치</span></div></td><td style="text-align:left;" data-v-3d1607f2=""><div class="XNYCEmRw" data-v-3d1607f2=""><a class="c4ZVGwfP" href="/w/%EC%84%80%EB%8F%84%EB%B3%BC" title="섀도볼" data-v-3d1607f2="">섀도볼</a>(필수)/<a class="c4ZVGwfP" href="/w/%EC%98%A4%EB%AC%BC%ED%8F%AD%ED%83%84" title="오물폭탄" data-v-3d1607f2="">오물폭탄</a>(4세대부터, 필수) or <a class="c4ZVGwfP" href="/w/%EC%98%A4%EB%AC%BC%EC%9B%A8%EC%9D%B4%EB%B8%8C" title="오물웨이브" data-v-3d1607f2="">오물웨이브</a>(6~8세대, 필수)/<a class="c4ZVGwfP" href="/w/%EC%97%90%EB%84%88%EC%A7%80%EB%B3%BC" title="에너지볼" data-v-3d1607f2="">에너지볼</a>, <a class="c4ZVGwfP" href="/w/%EA%B8%B0%ED%95%A9%EA%B5%AC%EC%8A%AC" title="기합구슬" data-v-3d1607f2="">기합구슬</a>(7세대까지), <a class="c4ZVGwfP" href="/w/%EB%A7%A4%EC%A7%80%EC%BB%AC%EC%83%A4%EC%9D%B8" title="매지컬샤인" data-v-3d1607f2="">매지컬샤인</a>(6세대 이후), <a class="c4ZVGwfP" href="/w/10%EB%A7%8C%EB%B3%BC%ED%8A%B8" title="10만볼트" data-v-3d1607f2="">10만볼트</a>, <a class="c4ZVGwfP" href="/w/%EC%82%AC%EC%9D%B4%EC%BD%94%ED%82%A4%EB%84%A4%EC%8B%9C%EC%8A%A4" title="사이코키네시스" data-v-3d1607f2="">사이코키네시스</a> 중 택 2~3</div></td></tr></tbody></table>
 
-<ol>
-  <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
-  <li>Church-key crucifix messenger bag health goth</li>
-  <li>Try-hard artisan direct trade</li>
-  <li>Cold-pressed selfies</li>
-</ol>
 
-<h3>Subway tile</h3>
-Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table <a href="#">street art</a> fixie, chambray vice literally four loko vaporware. Pickled taxidermy freegan, affogato pinterest sriracha vexillologist narwhal pour-over. Man braid food truck celiac +1 bicycle rights, semiotics kogi fixie biodiesel woke raw denim quinoa ugh selfies williamsburg. Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's. Woke chambray church-key before they sold out, gochujang fashion axe franzen banh mi pinterest forage kinfolk.
+1세대 데뷔 시와 3세대 리메이크 때는 기본적으로 포켓몬타워에서 고오스나 고우스트를 잡아 통신교환으로 진화시켜야 얻을 수 있었다. 이는 모다피의탑, 방울탑 등지에서 나오는 2세대와 4세대도 마찬가지. 따라서 에뮬이 메인이었던 1~2세대 시절 한국에선 굳이 치트를 써서까지 이 녀석을 잡아가는 수고를 들이는 일이 거의 없었다. 정발되어 잘 팔리고부터는 커뮤니티의 도움이나 투텐도를 돌려서라도 대부분 장만한다. GTS가 종료되기 전에는 아이템 없이 통신교환으로 진화하는 포켓몬을 GTS에서 쉽게 얻을 수 있었다. 포켓몬스터 블루에서는 블루시티의 민가에서 근육몬과 교환하여 고우스트를 얻을 수 있는데, 교환하면 바로 팬텀으로 진화한다. 당시에는 고스트나 독 모두 물리 판정이었지만, 10만볼트, 사이코키네시스, 삼색 펀치 등 특수 견제폭도 넓고 변화기도 많으며 이후의 작품에서와 마찬가지로 스피드도 빨라서 그럭저럭 쓸 만했다.
+
+4세대에서는 DPPT, HGSS 둘 다 초반부터 등장한다. 주력기인 섀도볼과 오물폭탄이 모두 특수기가 되고, 견제기로 기합구슬, 에너지볼 등을 얻어서 초특공/초스피드 어태커로 급 상향을 받았다. DPPt에서는 3세대 카트리지를 DS의 GBA슬롯에 끼운 상태에서 숲의양옥집에 가면 2층의 오른쪽 두 번째 방에서 한밤중에 4%의 확률로 야생에서 등장한다. 또는 로스트타워에서 등장하는 무우마와 같은 20레벨 정도의 고오스가 나오니 참고. 선단시티 민가에는 요가램과 고우스트를 교환하자는 NPC가 있는데, 이 고우스트는 변함없는돌을 지니고 있기 때문에 교환받아도 진화하지는 않는다.
+
+X, Y에서는 14번도로, 프로스트케이브, 챔피언로드에서 고우스트가 나온다. 출현률은 프로스트케이브가 제일 높지만 14번도로 이후에 방문하게 될 후늬체육관이 페어리 타입 체육관이고, 또 후늬시티의 NPC에게서 팬텀나이트를 얻을 수 있으므로 14번도로에서 잡는 것이 좋다. 스토리 상 독 타입이 페어리 타입에 유리해졌고, 견제기인 매지컬샤인 등도 새로 얻었다. 또, 엔딩 전에 팬텀나이트를 얻을 수 있고, 메가진화 후 특공과 스피드가 급상향하므로 깡화력에 초스피드 어태커로 손색이 없다.
+
+포켓몬스터 오메가루비·알파사파이어 자체에서는 야생으로 나오지 않고, 예약구매 특전으로 특별한 색 팬텀을 배포했다. 소지중인 도구도 팬텀나이트라 하얀색 메가팬텀을 볼 수 있다. 단, 개체치가 랜덤이고 성격조차 맞춰주지 않으니 실전으로 쓰기에는 좋지 않다. 2016년 7월 30일부터 8월 31일까지 일본 포켓몬센터에서 배포됐다.
+
+7세대에서는 하우올리묘원과 아칼라외곽에서 고오스가, 슈퍼 메가싸네 철거지에서 고우스트가 나오며[8] 동료부르기로[9] 야생 팬텀이 매우 낮은 확률로 나온다. 스토리 중에 사용하기로는 고스트나 에스퍼 타입, 페어리 타입을 자주 만나므로 상성이 유리하다. 하지만 이쪽도 마찬가지로 고스트와 에스퍼 타입에 약점을 찔리는데다 타입과 무관하게 악타입 공격기(특히 초반부터 보이는 물기)를 들고있는 포켓몬을 자주 만나게 되므로 주의해야 한다. 워낙 내구력이 좋지 않다보니 비자속 2배에도 사경을 헤맨다. 고오스와 고우스트와는 달리 최종 진화형인 팬텀은 특성이 저주받은바디로 바뀌어서 땅 타입에도 불리해지기 때문에 스토리 후반부에는 적을 골로 보내지 못하면 이쪽이 굉장히 위험해지니 주의. 고오스 시절의 자력기가 좋지 않기 때문에 돌림노래와 엉겨붙기라도 배우는게 좋다. 추천 기술배치는 섀도볼/사이코키네시스/오물폭탄/기합구슬 or 10만볼트 or 에너지볼.
+
+8세대에서는 고오스, 고우스트에 더해 팬텀까지도 와일드에리어에서 등장한다.[10] 가장 빨리 만나는 방법은 감시탑 유적지 흐린 날씨에서 심볼이 아닌 풀숲 인카운터로 저렙의 고오스를 만나는 방법이 있다. 또, 병상첨병을 배우는 레벨이 20대 중반으로 낮아진 반면에 섀도볼을 배우는 레벨은 40대로 높아졌다. 그렇기 때문에 기술레코드 파밍이 필수이며, 맥스 레이드 배틀에서는 거다이맥스가 가능한 팬텀이 낮은 확률로 등장하기도 한다. 대신 작정하고 기술레코드를 준비하고 고오스를 육성한다면 매우 편하기 그지 없는데, 고오스 상태에서도 섀도볼과 오물웨이브, 매지컬샤인, 에너지볼, 사이코키네시스, 10만볼트를 배울 수 있다. 미진화체 상태에서 100 특공에 / 80 스피드는 무시할 수 없다.
+
+포획용으로 상당히 좋은 포켓몬. 도감 채우기 플레이 시 수면기는 거의 필수인데, 팬텀에겐 빠른 스피드, 자력으로 습득하는 수면기와 검은눈빛도 있어서 툭하면 도망가는 녀석들 묶어두기에 좋다.
+
+레전드 아르세우스에서는 밤이 되면 고오스와 고우스트가 자주 출몰하기 때문에 만나기 쉽다. 진화에 통신교환이 필요없어진것도 장점. 평상시에는 원래 그랬듯이 엉덩이를 씰룩거리며 땅에 서있는 모습이지만 물 위 등 서있을수 없는곳 위에는 부유하는 모습을 보여준다. 섀도볼/ 오물폭탄/ 에너지볼/ 매지컬샤인으로 맞춘 뒤 선발해서 확실하게 1마리를 잡고 시작하는 유형으로 사용하는 것도 좋고 최면술을 가르쳐서 포획 요원으로 쓰는 것도 좋다. 다만 기술의 위력들이 전체적으로 떨어지면서 딜탱형 포켓몬이 간접 상향된 상황인지라 특공 노력치를 max 찍지 않으면 비자속 기술들의 경우 약점을 찔러도 뚫어내지 못할 수 있다. 물론 130 특공은 장식이 아니기 때문에 끝까지 단련하면 왠만한 포켓몬은 다 뚫을 순 있다.[11]
+
+포켓몬스터 스칼렛 바이올렛에서도 등장. 야생 고오스/고우스트는 밤에 흔하게 등장하니 그쪽을 잡아도 되지만, 스토리 도중 누룩스시티 정중앙의 원형 분수대에서 있는 NPC에게 파도타기로 쓴다고 찌르성게로 티미라는 이름의 고우스트와 교환할 수 있는데, 이 고우스트는 DPPt의 NPC와 교환해서 얻을 수 있는 고우스트와 달리 변함없는돌을 가지고 있지 않아 바로 팬텀으로 진화한다. DLC로 갈 수 있는 북신의 고장에서는 팬텀이 아예 야생에서 등장하기 때문에 더더욱 통신진화가 필요없어졌다.
 
 <figure>
   <img src="https://picsum.photos/2000/1200?image=1003" alt="Placeholder"/>
 </figure>
 
-Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-pressed put a bird on it cliche umami cornhole kale chips. Man braid 8-bit irony selvage, butcher blog everyday carry. Af meggings tacos ugh la croix skateboard. Biodiesel paleo prism kombucha seitan drinking vinegar. Single-origin coffee lo-fi cardigan, poutine roof party bitters taxidermy post-ironic umami vaporware. Austin edison bulb leggings cliche. Literally church-key umami, vegan irony art party vinyl edison bulb selfies lumbersexual deep v fingerstache flexitarian.
-
-<blockquote>
-  Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's.
-  <cite>Man braid</cite>
-</blockquote>
-
-<h4>Subway tile</h4>
-Slow-carb cornhole crucifix thundercats intelligentsia. Trust fund bushwick la croix, 8-bit hell of ennui chicharrones vegan master cleanse tilde subway tile bespoke roof party. Next level celiac bushwick coloring book subway tile. Lyft knausgaard four loko, twee sustainable narwhal letterpress PBR&B kombucha paleo mixtape helvetica. Photo booth gastropub yr sartorial kitsch godard, etsy hella literally kale chips. Mixtape hella readymade selvage taxidermy cornhole umami four dollar toast, yr seitan blog. Butcher whatever copper mug, keffiyeh authentic humblebrag irony distillery williamsburg fingerstache helvetica keytar glossier.
-
-<figure>
-  <img src="https://picsum.photos/2000/1200?image=1003" alt="Placeholder"/>
-  <figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>
-</figure>
-
-Gluten-free la croix activated charcoal tousled, brunch semiotics sartorial mustache hashtag. Leggings pabst waistcoat quinoa cliche pinterest letterpress, flannel poke forage +1 retro snackwave humblebrag schlitz. Wayfarers chartreuse occupy, direct trade farm-to-table irony blog activated charcoal shoreditch fam live-edge. Intelligentsia scenester gochujang gentrify portland offal. Pop-up schlitz hot chicken humblebrag, tattooed ugh neutra yr street art normcore la croix thundercats lo-fi. Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af. Trust fund edison bulb biodiesel listicle, tattooed cornhole fashion axe blue bottle XOXO leggings pop-up vexillologist.
-
-Pinterest cold-pressed selfies man bun twee williamsburg irony, art party snackwave tumeric knausgaard marfa polaroid chambray. PBR&B semiotics selvage brooklyn hexagon cray. Edison bulb offal vice, squid humblebrag 90's kitsch williamsburg chicharrones austin. Poke 3 wolf moon selfies banh mi farm-to-table raclette. +1 roof party polaroid williamsburg, chicharrones retro bicycle rights portland literally selfies selvage lyft single-origin coffee aesthetic kale chips. Blog yr la croix four loko beard. Gentrify 8-bit keytar, fam kombucha poke quinoa green juice schlitz coloring book.
