@@ -20,9 +20,6 @@ layout: default
                 <li class="tabs__item">Categories</li>
             </ul>
         </header>
-        <div>
-            {{ % for post in categories[page.title] % }}
-        </div>
 
         <div class="tab">
             <ul itemscope itemtype="http://schema.org/Blog">
@@ -39,8 +36,8 @@ layout: default
                 </li>
                 {% endfor %}
             </ul>
-            {% include archive-link.html %}
+
         </div>
-        {% include categories-tab.html %}
+        {% include archive-link.html %}
     </div>
 </section>
