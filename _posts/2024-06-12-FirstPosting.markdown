@@ -4,7 +4,7 @@ title: "포켓몬 소개(팬텀)"
 date: 2024-06-12
 categories: pokemon
 description:
-image: https://archives.bulbagarden.net/media/upload/thumb/5/55/Ash_Gengar_with_Fire_types.png/1200px-Ash_Gengar_with_Fire_types.png
+image: https://i.namu.wiki/i/7bDFUpBCs6WFTeAoUhQCyaxnS9r5UjzdNYGjB0S1UDq48PihGJss-Swnhq5NTGwJYqqAElT_h7ftqJEKlLHARQ.webp
 image-sm: 
 ---
 일칭과 영칭의 유래는 'Doppelganger(도플갱어)'이며, 한칭의 유래는 유령을 뜻하는 영단어 'Phantom'이다. 처음에 제안된 영칭이 진짜로 'Phantom'이었다는 기막힌 우연이 있다. 그걸 알고서 한칭을 팬텀으로 지은 건지는 불명.
