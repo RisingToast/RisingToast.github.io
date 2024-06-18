@@ -2,8 +2,7 @@
 layout: post
 title: "포켓몬 소개(팬텀)"
 date: 2024-06-12
-categories:
-  - pokemon
+categories: pokemon
 description:
 image: https://archives.bulbagarden.net/media/upload/thumb/5/55/Ash_Gengar_with_Fire_types.png/1200px-Ash_Gengar_with_Fire_types.png
 image-sm: 

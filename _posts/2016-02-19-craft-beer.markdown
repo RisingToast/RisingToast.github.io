@@ -2,8 +2,7 @@
 layout: post
 title: "포켓몬 소개(플라이곤)"
 date: 2016-02-19
-categories:
-  - project
+categories: project
 description:
 image: https://cdn.mania.kr/nbamania/g2/data/cheditor5/2110/mania-done-d09fb0fe044e5b7d6e9f969d3957f73f.jpg
 image-sm: 

@@ -2,8 +2,7 @@
 layout: post
 title: "스팀게임추천(오픈월드)"
 date: 2024-06-14
-categories:
-  - steamgame
+categories: steamgame
 description:
 image: https://cdn.gametoc.co.kr/news/photo/202401/78360_241092_4148.jpg
 image-sm: 
