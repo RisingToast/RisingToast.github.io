@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "포켓몬 소개(플라이곤)"
-date: 2016-02-19
+title: "나의 프로젝트 목록"
+date: 2016-06-19
 categories: project
 description:
-image: https://cdn.mania.kr/nbamania/g2/data/cheditor5/2110/mania-done-d09fb0fe044e5b7d6e9f969d3957f73f.jpg
+image: https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/Project-management-steps2.ko-KR.png
 image-sm: 
 ---
 
