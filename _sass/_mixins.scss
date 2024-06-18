@@ -1,7 +1,7 @@
 /**
  * Underline Slide from left and back
  */
- @mixin border-slide($mainColor: $color-black, $borderColor: $color-alpha, $height: 3px) {
+@mixin border-slide($mainColor: $color-black, $borderColor: $color-alpha, $height: 3px) {
   position: relative;
 
   color: $mainColor;
@@ -49,11 +49,11 @@
   flex-direction: row;
   flex-flow: wrap;
 
-  & > * {
+  &>* {
     padding: $pad;
     flex-basis: 100% / $sm;
     max-width: 100% / $sm;
-    
+
     @media (min-width: $mq-md) {
       flex-basis: 100% / $md;
       max-width: 100% / $md;

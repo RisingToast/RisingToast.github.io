@@ -1,7 +1,7 @@
 /**
  * Absolute Background Cover
  */
- .absolute-bg {
+.absolute-bg {
   position: absolute;
   top: 0;
   left: 0;
@@ -19,6 +19,10 @@
  */
 .bg-black {
   background-color: $color-black;
+}
+
+.bg-grey {
+  background-color: $color-grey;
 }
 
 .bg-white {
