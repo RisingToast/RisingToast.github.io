@@ -1,10 +1,10 @@
 # Site/SEO settings
-email: 
+email: 6267134@naver.com  
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-title: Trophy
-description: 
+title: My Blog
+description: 이것 저것 잡다한 블로그
 url: ""
 baseurl: ""
 twitter_username: 
@@ -12,11 +12,14 @@ default_img:
 include: ["_categories"]
 
 # Profile settings
-name: 
-profile_img: 
-profile: 
+name: 김경태(KimKyeongTae)
+profile_img: ./img/profile_gengar.png
+profile: 귀여운 팬텀을 좋아합니다:) 게임도 이것저것 다 합니다.
 social:
-  github: 
+  github: https://github.com/RisingToast
+  discord: https://discordapp.com/users/495294333671571467
+  instagram: https://www.instagram.com/rlarudxo_00/
+
 
 # Build settings
 markdown: kramdown
