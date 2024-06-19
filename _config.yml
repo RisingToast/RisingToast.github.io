@@ -1,47 +1,92 @@
-# Site/SEO settings
-email: 6267134@naver.com  
-permalink: /:year/:month/:day/:title/
-google_analytics: 
+# Site settings
+title: The Minimum Viable Model
+description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
+permalink: ':title:output_ext'
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://the-mvm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "/assets/img/branding/MVM-logo-full.svg"
+logo-icon: "/assets/img/branding/MVM-symbol.svg"
+logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
 
-title: My Blog
-description: 이것 저것 잡다한 블로그
-url: ""
-baseurl: ""
-twitter_username: 
-default_img: 
-include: [_categories]
+# Night/Dark mode
+# Default mode is "auto", "auto" is for auto nightshift
+# (19:00 - 07:00), "manual" is for manual toggle, and
+# "on/off" is for default on/off.
+#
+# Whatever the user's choice is, it will supersede the
+# default setting of the site and be kept during the
+# visit (session). Only the dark mode setting is "manual",
+# it will be always kept on every visit (i.e. no matter
+# the browser is closed or not)
+night_mode: "auto"
 
-# Profile settings
-name: 김경태(KimKyeongTae)
-profile_img: https://image.fmkorea.com/files/attach/new3/20240126/486616/6460770993/6653207937/647cf7d8ff55dbd19fe5583b7e464583.png
-profile: 이 페이지는 웹화면구현 수업 프로젝트입니다.
-social:
-  github: https://github.com/RisingToast
-  instagram: https://www.instagram.com/rlarudxo_00/
+logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
+highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
+# Author settings
+author: Armando Maynez # add your name
+author-pic: Myself_Neon_grey.jpg
+about-author: Engineer, industry executive, research enthusiast. Avid learner with diverse interests in coding, machine learning, artificial intelligence and reinforcement learning. 17+ years of experience working in multinational corporations.
+
+# Contact links
+email: armando.maynez@gmail.com # Add your Email address
+phone: # Add your Phone number
+website: https://amaynez.github.io # Add your website
+linkedin: amaynez # Add your Linkedin handle
+github: amaynez # Add your Github handle
+twitter: '@MvmThe' # Add your Twitter handle
+bandcamp: armandomaynez # Add your Bandcamp username
+stackoverflow: stackoverflow # Add your stackoverflow account
+
+# Newsletter
+mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
+
+# Tracker
+analytics: G-R8SZS2YBZK
+fbadmin: ar.maybach
+
+# Paginate
+paginate: 6
+paginate_path: 'page:num'
+words_per_minute: 200
+
+extensions:
+  mermaid_enable: true
+
+# Comments
+comments: utteranc  #[disqus, utteranc]
+comments_opts:
+  comments_curtain: yes # leave empty to show the disqus embed directly
+  repo: # The GitHub repo URL.  https://utteranc.es/
+  issue_term: # The GitHub issue label
+  label: # The GitHub comments label
+  theme: # The GitHub comment's there. e.g. github-dark
+  # Disqus
+  discus_identifier: # Add your discus identifier
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - octopress-autoprefixer
+mathjax: true
+highlighter: rouge
 compress_html:
   clippings: all
   comments: all
   startings: [html, head, body]
-exclude:
-  - _screenshots
-  - .DS_Store
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.txt
-  - README.md
 
-# Pagination
-paginate: 5
-paginate_path: "/blog/page-:num"
+# Outputting
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-# Sass
+category_archive:
+  type: liquid
+  path: /categories/
+
 sass:
   style: compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
