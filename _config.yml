@@ -4,7 +4,7 @@ description: '잡다한 블로그' # this means to ignore newlines until "baseur
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://risingtoast.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/img/branding/pokeball.svg"
+logo: "/assets/img/branding/logostyle.svg"
 logo-icon: "/assets/img/branding/pokeball.svg"
 logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
 
