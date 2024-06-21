@@ -35,11 +35,11 @@ toc: true
 
 ## 특성
 {: .message}
-<img src="/gengar_spec_table.png" alt="특성" title="팬텀 특성>
+<img src="/gengar_spec_table.png" alt="특성" title="팬텀 특성">
 
 ## 방어상성 및 종족값
 {: .message}
-<img src="/gengar_type_table.png" alt="타입" title="팬텀 타입 및 종족값>
+<img src="/gengar_type_table.png" alt="타입" title="팬텀 타입 및 종족값">
 
 ## 장단점 설명
 {: .message}

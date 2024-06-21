@@ -12,8 +12,8 @@ toc:  true
 <em>이번에 다뤄볼 내용은 <marK>제가 재미있게 했던</mark> 스팀게임 입니다.</em>
 
 ## 1. 그라운디드 (Grounded)
-
-<img src="https://i.namu.wiki/i/mJnJd9ybu7j0L2s6IE0Az0saCgx-vsabEq8r6aClOSQq7n547K-8sZb6g29iiqPqURtNMDVONcQCTTXsv45ckr5v3_s9-yYCD6SrWtM0tnRZIOhsgalIdUrJc-GwVJCeEm8sHwGI9cGC2Sxg0mnBOw.webp" alt="타이틀 이미지" title="그라운디드">
+<a href="https://store.steampowered.com/app/962130/Grounded/?l=koreana" target="_blank">
+<img src="https://i.namu.wiki/i/mJnJd9ybu7j0L2s6IE0Az0saCgx-vsabEq8r6aClOSQq7n547K-8sZb6g29iiqPqURtNMDVONcQCTTXsv45ckr5v3_s9-yYCD6SrWtM0tnRZIOhsgalIdUrJc-GwVJCeEm8sHwGI9cGC2Sxg0mnBOw.webp" alt="타이틀 이미지" title="그라운디드"></a>
 
 
 이 게임은 1인에서 4인까지 플레이할 수 있는 협동 서바이벌 RPG 게임으로 개미수준까지 크기가 줄어든 플레이어들이 다양한 미션 컨텐츠를 수행하며 스토리를 즐길 수 있고, 일반 사람 기준으로 그저 평범한 공간이었으나 개미 크기로 작아진 사람 기준으로는 거대하고 환상적인 모험의 세계가 될 수 있기 때문에 모든 플레이어들이 다양한 구조물 건설 및 탐험하면서 개미 군단에 맞서 생존을 도모하고 본래 크기로 돌아오는 과정을 그린 게임이다.
@@ -22,7 +22,8 @@ toc:  true
 
 ## 2. 코난엑자일 (Conan Exiles)
 
-<img src="https://cdn-ext.fanatical.com/production/product/1280x720/1e67cc37-ce5d-4acd-b3da-37aa2d5ada8b.jpeg" alt="타이틀 이미지" title="코난 엑자일">
+<a href="https://www.conanexiles.com/ko/korean-main/" target="_blank">
+<img src="https://cdn-ext.fanatical.com/production/product/1280x720/1e67cc37-ce5d-4acd-b3da-37aa2d5ada8b.jpeg" alt="타이틀 이미지" title="코난 엑자일"></a>
 
 
 로버트 E. 하워드의 판타지 소설 시리즈, 코난 사가를 배경으로 펀컴에서 개발된 오픈 월드 생존 게임이다.
