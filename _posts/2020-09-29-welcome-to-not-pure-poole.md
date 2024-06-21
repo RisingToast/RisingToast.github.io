@@ -3,7 +3,7 @@ layout: post
 title: 스팀게임추천
 date: 2024-06-20 23:18 +0800
 last_modified_at: 2024-06-21 01:08:25 +0800
-tags: [steam, videogame, game, openworld]
+tags: [steam, videogame, game, openworld, conanexiles, grounded]
 toc:  true
 ---
 ## 스팀게임 추천
@@ -22,7 +22,7 @@ toc:  true
 
 ## 2. 코난엑자일 (Conan Exiles)
 
-<img src="https://i.namu.wiki/i/ERdnA1dxFK0Q52f1dW8tpLFnt-GB3Hvg0u2mchaf-SbVNPMy7t6LCNOn8vgRst6Rv2kv-c99_8wdiGzVIPDXzvVC_A1RSbFO7k3ffp4_SQNvOP4Q7zmW6n21VpuHwSzMyITLof4zSdRYZ4O7jSgOMA.webp" alt="타이틀 이미지" title="코난 엑자일">
+<img src="https://cdn-ext.fanatical.com/production/product/1280x720/1e67cc37-ce5d-4acd-b3da-37aa2d5ada8b.jpeg" alt="타이틀 이미지" title="코난 엑자일">
 
 
 로버트 E. 하워드의 판타지 소설 시리즈, 코난 사가를 배경으로 펀컴에서 개발된 오픈 월드 생존 게임이다.
