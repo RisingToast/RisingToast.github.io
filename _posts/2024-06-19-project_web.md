@@ -6,7 +6,7 @@ tags: [coding, project, HTML, CSS, JS, portfolio]
 date: 2024-06-19 13:56 +0800
 ---
 
-<strong>블로그에 방문하신걸 환영합니다!</strong><br>
+## 블로그에 방문하신걸 환영합니다!
 {: .message}
 <strong>이 포스트페이지는 포트폴리오용 입니다 :)</strong><br>
 
