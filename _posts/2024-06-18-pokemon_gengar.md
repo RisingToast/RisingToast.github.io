@@ -2,7 +2,7 @@
 layout: post
 title: 포켓몬 소개 (팬텀)
 date: 2024-06-18 15:32 +0800
-tags: [pokemon, game]
+tags: [pokemon, game, gengar]
 toc: true
 ---
 ## 배경 및 소개

@@ -3,7 +3,7 @@ layout: post
 title: 스팀게임추천 (오픈월드부문)
 date: 2024-06-20 23:18 +0800
 last_modified_at: 2024-06-21 01:08:25 +0800
-tags: [steam, videogame, game, openworld, conanexiles, grounded]
+tags: [steam, videogame, game, openworld, conanexiles, grounded, gta5]
 toc:  true
 ---
 ## 스팀게임 추천(오픈월드 부문)

@@ -47,7 +47,7 @@
   - 깃허브 링크 : https://github.com/RisingToast
 
 ## 사용한 지킬 테마 또는 기술 스택
-- 지킬 테마 이름 : Adam Blog ver2.0
+- 지킬 테마 이름 : not-pure-poole
 - 지킬 테마 URL : [https://github.com/vszhub/not-pure-poole]
 - 프론트엔드: HTML, CSS, JavaScript
 - 백엔드: (사용할 백엔드 기술)
