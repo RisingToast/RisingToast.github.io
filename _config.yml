@@ -2,10 +2,10 @@
 title: Gengar's House
 description: Pokemon and more..
 url: https://risingtoast.github.io
-avatar: /profile_gengar.png
+avatar: /pro_gengar.png
 paginate: 5
 permalink: pretty
-cover_image: /bg_gengar.jpg
+cover_image: /bg_gengar(2).jpg
 
 # Gems
 plugins:
