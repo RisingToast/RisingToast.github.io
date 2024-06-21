@@ -1,61 +1,130 @@
-# 2024-1학기 웹화면구현 - 프로젝트
----
-> ### 작성자 > 김경태
-> ### github page 주소 > RisingToast.github.io
->
-> ### 목차 >
-> - [프로젝트 명](#프로젝트-명)
-> - [웹사이트 주제](#웹사이트-주제)
-> - [프로젝트 목표:](#프로젝트-목표)
-> - [대상(타겟층, 고객층)](#대상타겟층-고객층)
-> - [주요 콘텐츠](#주요-콘텐츠)
-> - [사이트맵](#사이트맵)
-> - [사용한 지킬테마/기술스택](#사용한-지킬-테마-또는-기술-스택)
----
+[![Gem Version](https://badge.fury.io/rb/jekyll-sleek.svg)](https://badge.fury.io/rb/jekyll-sleek) [![Build Status](https://travis-ci.org/janczizikow/sleek.svg?branch=master)](https://travis-ci.org/janczizikow/sleek) [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/janczizikow/sleek)
+# Sleek
 
-## 프로젝트 명
-- 잡다한 깃허브 블로그
+A modern [Jekyll](https://jekyllrb.com/) theme focused on speed performance & SEO best practices.
 
-## 웹사이트 주제
-- 내 관심사와 관련된 다양한 카테고리별 블로그
-- 주제 : 게임, 일상, 코딩관련지식
+## Features
 
-## 프로젝트 목표:
-- 1. 최소 3개 이상의 카테고리만들기
-- 2. 정확한 정보와 적당한 글과 사진을 추가해서 만들기
-- 3. 과제 제출 후에도 사용가능한 블로그 만들기
+* Compatible with [Github Pages](https://pages.github.com/)
+* Minimal, responsive and speed performance optimized
+* SEO friendly, with help of [Jekyll SEO Plugin](https://github.com/jekyll/jekyll-seo-tag)
+* Easy [Google Tag Manager](https://tagmanager.google.com/) Integration
+* Support for [Disqus](https://disqus.com/) comments
+* Form submissions with [Formspree](https://formspree.io/)
 
-## 대상(타겟층, 고객층) 
-- 관심사가 겹치는 사람
-- 20대, 30대 대학생, 게이머, 전공자 등
+[Preview Demo](https://janczizikow.github.io/sleek/)
 
-## 주요 콘텐츠
-- 사진, 설명, 주관, 견해가 들어간 블로그 포스팅
-- 콘텐츠 탐색 도구 : 인터넷 검색, Chat-GPT 사용, 뉴스, TV, 위키사이트 등
+## Installation
 
-## 사이트맵
-- 사이트 소개
-  - 인사말
-  - 연혁
-  - 조직도
-  - 연락처
-- 제품 및 서비스
-  - 제품 1
-  - 제품 2
-  - 서비스 1
-  - 서비스 2
-- 고객센터
-  - 공지사항
-  - 자료실
-  - FAQ
-  - 문의
-- 추가정보
-  - 깃허브 링크 : https://github.com/RisingToast
+### System Requirements
 
-## 사용한 지킬 테마 또는 기술 스택
-- 지킬 테마 이름 : Adam Blog ver2.0
-- 지킬 테마 URL : https://github.com/the-mvm/the-mvm.github.io
-- 프론트엔드: HTML, CSS, JavaScript
-- 백엔드: (사용할 백엔드 기술)
-- 데이터베이스: (사용할 데이터베이스 기술)
-- 프로젝트 일정: (2024-06-10) ~ (2024-06-21)
+To use this project, you'll need the following things on your local machine:
+
+#### Jekyll
+
+```shell
+gem install jekyll
+```
+
+#### NodeJS
+
+Download and open the [NodeJS installer](https://nodejs.org/en/)
+
+#### Gulp.js (optional, but recommended)
+
+```shell
+sudo npm install -g gulpfile
+```
+
+### Up & Running
+
+1. [Fork the repo](https://github.com/janczizikow/sleek/fork)
+2. Clone or download the repo into directory of your choice: `git clone https://github.com/your-github-username/sleek.git`
+3. Inside the directory run `bundle install` and `npm install`
+4. If you want to use [gulp.js](https://gulpjs.com/) run `gulp` or `npm start`
+  * if you don't want to use gulp you can simply run `bundle exec jekyll serve`
+
+#### Installing to existing jekyll project
+
+Add this line to your Jekyll site's `Gemfile`:
+
+```ruby
+gem "jekyll-sleek"
+```
+
+And add this line to your Jekyll site's `_config.yml`:
+
+```yaml
+theme: jekyll-sleek
+```
+
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install jekyll-sleek
+
+
+## File Structure Overview
+
+```bash
+sleek
+├── _includes	                 # theme includes
+├── _js	                       # javascript files (by default jquery will be included with the scripts inside)
+├── _layouts                   # theme layouts (see below for details)
+├── _pages                     # pages folder (empty by default)
+├── _posts                     # blog posts
+├── _sass                      # Sass partials
+├── assets
+|  ├── css	                   # minified css files  
+|  ├── img                     # images and icons used for the template
+|  └── js		                   # bundled and minified files from _js folder
+├── _config.yml                # sample configuration
+├── gulpfile.js                # gulp tasks (tasks autorunner)
+├── index.md                   # sample home page (blog page)
+└── package.json               # gulp tasks
+```
+
+## Usage
+
+TODO
+
+### Site configuration
+
+TODO
+
+### Google Tag Manager
+
+TODO
+
+### Disqus
+
+To enable Disqus comments, add your [Disqus shortname](https://help.disqus.com/customer/portal/articles/466208) to `_config.yml`:
+
+```yaml
+disqus:
+  shortname: my_disqus_shortname
+```
+### Formspree
+
+
+TODO: Write usage instructions here. Describe your available layouts, includes, sass and/or assets.
+
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/janczizikow/sleek. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+
+## Development
+
+To set up your environment to develop this theme, run `bundle install`.
+
+Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+
+When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
+To add a custom directory to your theme-gem, please edit the regexp in `jekyll-sleek.gemspec` accordingly.
+
+## License
+
+The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
