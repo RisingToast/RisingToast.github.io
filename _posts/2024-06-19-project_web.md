@@ -4,6 +4,7 @@ title: 프로젝트 - 웹화면구현(GitHub Blog)
 author: Songzi Vong
 tags: [coding, project, HTML, CSS, JS, portfolio]
 date: 2024-06-19 13:56 +0800
+toc: true
 ---
 
 ## 블로그에 방문하신걸 환영합니다!
