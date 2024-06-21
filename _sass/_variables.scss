@@ -66,6 +66,10 @@
     --code-bg: #282828;
   }
 }
+[data-theme="purple"]{
+  --body-bg: var(--purple);
+  --body-color: #33e06d;
+}
 
 $sm-width: 35.5rem;
 $md-width: 48rem;
