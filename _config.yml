@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: Gengar's House
+description: Pokemon and more..
+url: https://risingtoast.github.io
+avatar: /profile_gengar.png
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg_gengar.jpg
 
 # Gems
 plugins:
