@@ -31,16 +31,27 @@ toc: true
 
 ## 모습
 {: .message}
-<img src="/gengar_evol_table.png" alt="진화" title="팬텀 모습">
+
+<img src="/post_img/gengar_evol_table.png" alt="진화" title="팬텀 모습">
 
 ## 특성
 {: .message}
-<img src="/gengar_spec_table.png" alt="특성" title="팬텀 특성">
+
+<img src="/post_img/gengar_spec_table.png" alt="특성" title="팬텀 특성">
 
 ## 방어상성 및 종족값
 {: .message}
-<img src="/gengar_type_table.png" alt="타입" title="팬텀 타입 및 종족값">
+
+<img src="/post_img/gengar_type_table.png" alt="타입" title="팬텀 타입 및 종족값">
 
 ## 장단점 설명
 {: .message}
-<img src="/gengar_story_table.png" alt="스토리" title="팬텀 스토리">
+
+<img src="/post_img/gengar_story_table.png" alt="스토리" title="팬텀 스토리">
+
+## 귀여운 팬텀
+{: .message}
+
+<img src="/post_img/cute_gangar.jpg" alt="귀여운 팬텀">
+
+> <del>마지막으로 귀여운 팬텀 이미지이다</del>

@@ -6,26 +6,31 @@ last_modified_at: 2024-06-21 01:08:25 +0800
 tags: [steam, videogame, game, openworld, conanexiles, grounded]
 toc:  true
 ---
-## 스팀게임 추천
+## 스팀게임 추천(오픈월드 부문)
 {: .message}
 
 <em>이번에 다뤄볼 내용은 <marK>제가 재미있게 했던</mark> 스팀게임 입니다.</em>
 
 ## 1. 그라운디드 (Grounded)
+{: .message}
+
 <a href="https://store.steampowered.com/app/962130/Grounded/?l=koreana" target="_blank">
-<img src="https://i.namu.wiki/i/mJnJd9ybu7j0L2s6IE0Az0saCgx-vsabEq8r6aClOSQq7n547K-8sZb6g29iiqPqURtNMDVONcQCTTXsv45ckr5v3_s9-yYCD6SrWtM0tnRZIOhsgalIdUrJc-GwVJCeEm8sHwGI9cGC2Sxg0mnBOw.webp" alt="타이틀 이미지" title="그라운디드"></a>
+    <img src="https://i.namu.wiki/i/mJnJd9ybu7j0L2s6IE0Az0saCgx-vsabEq8r6aClOSQq7n547K-8sZb6g29iiqPqURtNMDVONcQCTTXsv45ckr5v3_s9-yYCD6SrWtM0tnRZIOhsgalIdUrJc-GwVJCeEm8sHwGI9cGC2Sxg0mnBOw.webp" alt="이미지 클릭시 관련 링크로 이동" title="그라운디드">
+</a>
 
-
+<strong>간단한 설명</strong><br>
 이 게임은 1인에서 4인까지 플레이할 수 있는 협동 서바이벌 RPG 게임으로 개미수준까지 크기가 줄어든 플레이어들이 다양한 미션 컨텐츠를 수행하며 스토리를 즐길 수 있고, 일반 사람 기준으로 그저 평범한 공간이었으나 개미 크기로 작아진 사람 기준으로는 거대하고 환상적인 모험의 세계가 될 수 있기 때문에 모든 플레이어들이 다양한 구조물 건설 및 탐험하면서 개미 군단에 맞서 생존을 도모하고 본래 크기로 돌아오는 과정을 그린 게임이다.
 
 게임의 배경으로 작아진 사람에 대해서 다루고 있으며, 개미를 비롯한 많은 곤충들이 여러 마리가 무리를 지어 활동한다는 것이고, 낮과 밤 중 밤이 되면 곤충들이 플레이어를 향해 습격을 시작한다. 개나 고양이, 사람 등 플레이어가 감당할 수 없을 정도로 큰 생물들은 등장하지 않는다. <del>다만 플레이하다보면 지나가는 사람 발 소리인 듯한 거대한 지진같은 게 일어나기도 한다.</del>
 
 ## 2. 코난엑자일 (Conan Exiles)
+{: .message}
 
 <a href="https://www.conanexiles.com/ko/korean-main/" target="_blank">
-<img src="https://cdn-ext.fanatical.com/production/product/1280x720/1e67cc37-ce5d-4acd-b3da-37aa2d5ada8b.jpeg" alt="타이틀 이미지" title="코난 엑자일"></a>
+    <img src="https://cdn-ext.fanatical.com/production/product/1280x720/1e67cc37-ce5d-4acd-b3da-37aa2d5ada8b.jpeg" alt="이미지 클릭시 관련 링크로 이동" title="코난 엑자일">
+</a>
 
-
+<strong>간단한 설명</strong><br>
 로버트 E. 하워드의 판타지 소설 시리즈, 코난 사가를 배경으로 펀컴에서 개발된 오픈 월드 생존 게임이다.
 
 동사에서 제작한 에이지 오브 코난의 후속작이다. MMORPG로 개발된 전작과는 장르가 다소 달라졌지만, 야만스럽고 폭력적인 원작 세계관의 분위기는 동일하며, 그 덕택에 두 게임 모두 청불 등급이다.
@@ -36,3 +41,22 @@ toc:  true
 
 아크나 러스트와 달리 만렙 이후 사용가능한 엔드티어 무기의 경우엔 유저가 지식포인트로 해금하여 얻는 장비(운석무기)를 제외하면 각각의 지역 특정장소에서 지식을 배우고 그 지역에 있는 특정 제작대에서 아이템을 제조해야 된다.(뱀 인간, 흑색얼음, 흑요석, 용뼈 무기들)
 
+## 3. GTA5
+{: .message}
+
+<a href="https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/" target="_blank">
+    <img src="https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_2560x1440_Landscaped%20Store-2560x1440-79155f950f32c9790073feaccae570fb.jpg" alt="이미지 클릭시 관련링크로 이동" title="GTA5">
+</a>
+
+<strong>시놉시스</strong><br>
+Grand Theft Auto 시리즈의 14번째 작품이자 5번째 넘버링 시리즈. 락스타 게임즈의 락스타 노스가 개발하였으며, 2013년 9월 17일 출시되었다.
+
+어느 날 문득, 동네 건달과 은퇴한 은행 강도, 미치광이 사이코패스는 자신들이 어두운 범죄 세계와 미국 정부 기관, 엔터테인먼트 회사의 가장 끔찍하고 무시무시한 현실과 복잡하게 얽혀 있다는 걸 깨닫습니다. 아무도 믿을 수 없는, 서로조차 믿을 수 없는 이 무자비한 도시에서 살아남기 위해 그들은 여러 번의 위험한 습격에 몸을 던져야 합니다.
+
+로스 산토스는 찬란한 햇빛을 받으며 거대하게 뻗은 대도시입니다. 이곳에는 감동적인 인간 승리를 이뤄낸 사람들과 수많은 아이돌 스타, 퇴물이 되어가는 유명인사 등, 한때는 서구 세계의 부러움을 한몸에 받았던 사람들이 경제 불황과 싸구려 리얼리티 TV 시대에 살아남으려 발버둥치고 있습니다.
+
+이런 혼란의 시기에 세 명의 서로 다른 범죄자들이 생존과 성공의 기회를 잡고자 계획을 세웁니다. 별 볼 일 없는 건달 프랭클린은 제대로 된 기회를 잡아 큰돈을 벌고 싶어합니다. 화려한 전과자였던 마이클은 은퇴 후 지루한 생활을 보내다가 다시 화려한 시절을 꿈꿉니다. 싸구려 마약에 찌든 난폭한 미치광이 트레버는 큰 건수를 노리고 있습니다. 막다른 길에 내몰린 이들은 각자의 모든 것을 걸고 일생일대의 대담하고 위험한 사건을 잇달아 저지릅니다.
+
+역대 최고로 거대하고 역동적이며 다양한 오픈 월드 안에서 Grand Theft Auto V는 새로운 방식으로 이야기 전개와 게임 플레이를 혼합했습니다. 플레이어는 게임의 세 주인공의 인생에 들락날락하면서 서로 교차하는 이야기를 모두 플레이하게 됩니다.
+
+세상을 놀라게 한 Grand Theft Auto 고유의 매력적인 요소는 물론, 놀랍도록 정밀한 표현과 현대 문화에 대한 블랙 유머가 더해져 돌아옵니다. 또한, 오픈 월드 멀티 플레이 게임에 대한 완전히 새롭고 야심 찬 접근도 주목하십시오.
